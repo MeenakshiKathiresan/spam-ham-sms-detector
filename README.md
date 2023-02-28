@@ -3,7 +3,7 @@ A spam/ham dataset from kaggle was used to train with random forest model. The m
 
 ![image2](https://user-images.githubusercontent.com/26730019/221911003-2c6c7f16-b625-4f98-8253-8aa97311a37c.png)
 
-# To test it
+## To test it
 Send an sms to the deployed number and get a prediction if the sent message is spam or ham. You can validate the prediction with 'correct' or 'wrong'.  
 
 ![output-onlinepngtools (2)](https://user-images.githubusercontent.com/26730019/221911863-535ae551-dfb6-4b29-aa5f-060bb10061ed.png)
@@ -11,7 +11,7 @@ Send an sms to the deployed number and get a prediction if the sent message is s
 
 (Suspended twilio account and it is not live)
 
-# Tech stack
+## Tech stack
 - Python
 - Jupyter notebooks
 - Twilio API
@@ -19,5 +19,5 @@ Send an sms to the deployed number and get a prediction if the sent message is s
 - AWS dynamodb
 - AWS elastic bean stalk
 
-# Reference
+## Reference
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset 
